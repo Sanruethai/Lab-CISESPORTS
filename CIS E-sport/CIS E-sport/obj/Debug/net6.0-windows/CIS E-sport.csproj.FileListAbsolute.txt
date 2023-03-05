@@ -1,0 +1,19 @@
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\CIS E-sport.csproj.AssemblyReference.cache
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\CIS E-sport.csproj.GenerateResource.cache
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\CIS E-sport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\CIS E-sport.AssemblyInfoInputs.cache
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\CIS E-sport.AssemblyInfo.cs
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\CIS E-sport.csproj.CoreCompileInputs.cache
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\bin\Debug\net6.0-windows\CIS E-sport.exe
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\bin\Debug\net6.0-windows\CIS E-sport.deps.json
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\bin\Debug\net6.0-windows\CIS E-sport.runtimeconfig.json
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\bin\Debug\net6.0-windows\CIS E-sport.dll
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\bin\Debug\net6.0-windows\CIS E-sport.pdb
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\CIS_E_sport.FromInfo.resources
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\CIS E-sport.dll
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\refint\CIS E-sport.dll
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\CIS E-sport.pdb
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\CIS E-sport.genruntimeconfig.cache
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\ref\CIS E-sport.dll
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\CIS_E_sport.FromAllPlayer.resources
+C:\Users\ph\OneDrive\เอกสาร\GitHub\cis espost\CIS E-sport\CIS E-sport\obj\Debug\net6.0-windows\CIS_E_sport.ApplicationForm.resources
